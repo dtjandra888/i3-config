@@ -10,5 +10,5 @@ This repos includes my i3 configuration file for my personal system. I'm current
 - Using lightdm lock instead of i3lock
 
 # TODO:
-- Add symbolic links to config files
-
+- Make status bar nicer
+- Setup up rofi instead of dmenu
